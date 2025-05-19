@@ -15,7 +15,11 @@ To write a Python program to insert 3 elements into a stack and display the inde
 
 ## Program
 
-```python
+```
+#Name:Lavanya S
+#Reg no:212222070017
+
+python
 stack = []
 
 # Push elements into the stack
