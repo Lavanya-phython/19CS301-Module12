@@ -14,7 +14,11 @@ To write a Python program to insert 3 elements into a queue and display each ele
 
 ## Program
 
-```python
+```
+#Name:Lavanya S
+#Reg no:212222070017
+
+python
 queue = []
 
 # Enqueue elements into the queue
